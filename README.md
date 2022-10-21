@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @limheechan
-- 👀 I’m interested in IOS
-- 🌱 I’m currently learning SWIFT, RXSWIFT
-- 💞️ I’m looking to collaborate on ...
+
+
+
 - 📫 How to reach me ...decodeode@gmail.com
 
 <!---
